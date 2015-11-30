@@ -1,4 +1,3 @@
-require('../common-tap')
 var test = require('tap').test
 var common = require('../common-tap.js')
 var mr = require('npm-registry-mock')
